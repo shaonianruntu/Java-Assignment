@@ -1,2 +1,1 @@
-# Java-lab
-JAVA程序设计课程设计实验
+# Java Language course assignment of HDU
